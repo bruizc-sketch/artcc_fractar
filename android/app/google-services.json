@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "692330269858",
+    "project_id": "aplica-movil-ffa0b",
+    "storage_bucket": "aplica-movil-ffa0b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692330269858:android:30ed53a93c236b6b4adbfb",
+        "android_client_info": {
+          "package_name": "com.example.artcc_fractar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBehWQ_Jl9pIHXHVb6yMNhbiqEPQcK-7vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
